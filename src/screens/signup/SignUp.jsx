@@ -61,11 +61,10 @@ const styles = StyleSheet.create({
         height: '40%',
     },
     formSec: {
-        paddingVertical: 20,
+        paddingVertical: 30,
         width: '90%',
-        height: 250,
         backgroundColor: 'gray',
-        borderRadius: 10,
+        borderRadius: 18,
         elevation: 3
     },
     heading: {
